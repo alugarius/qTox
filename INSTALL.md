@@ -41,16 +41,16 @@
 
 | Name          | Version     | Modules                                           |
 |---------------|-------------|-------------------------------------------------- |
-| Qt            | >= 5.3.0    | core, gui, network, opengl, sql, svg, widget, xml |
-| GCC/MinGW     | >= 4.8      | C++11 enabled                                     |
-| toxcore       | most recent | core, av                                          |
-| FFmpeg        | >= 2.6.0    | avformat, avdevice, avcodec, avutil, swscale      |
-| OpenAL Soft   | >= 1.16.0   |                                                   |
-| filter_audio  | most recent |                                                   |
-| qrencode      | >= 3.0.3    |                                                   |
-| sqlcipher     | >= 3.2.0    |                                                   |
-| libXScrnSaver | >= 1.2      |                                                   |
-| pkg-config    | >= 0.28     |                                                   |
+| [Qt](https://www.qt.io/)            | >= 5.3.0    | core, gui, network, opengl, sql, svg, widget, xml |
+| [GCC](https://gcc.gnu.org/)/[MinGW](http://mingw.org/)     | >= 4.8      | C++11 enabled                                     |
+| [toxcore](https://github.com/irungentoo/toxcore)       | most recent | core, av                                          |
+| [FFmpeg](http://ffmpeg.org/)        | >= 2.6.0    | avformat, avdevice, avcodec, avutil, swscale      |
+| [OpenAL Soft](http://openal-soft.sourceforge.net/)   | >= 1.16.0   |                                                   |
+| [filter_audio](https://github.com/irungentoo/filter_audio)  | most recent |                                                   |
+| [qrencode](https://fukuchi.org/works/qrencode/)      | >= 3.0.3    |                                                   |
+| [sqlcipher](https://www.zetetic.net/sqlcipher/)     | >= 3.2.0    |                                                   |
+| [libXScrnSaver](https://www.x.org/wiki/) | >= 1.2      |                                                   |
+| [pkg-config](https://www.freedesktop.org/wiki/Software/pkg-config/)    | >= 0.28     |                                                   |
 
 
 <a name="linux" />
